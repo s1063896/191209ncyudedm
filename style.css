@@ -38,6 +38,10 @@ section#s4{
   background-color: #e9daf5;
 }
 
+.card{
+  height:700px;
+}
+
 /* 40px */
 .toTop-arrow {
 	width: 2.5rem;
